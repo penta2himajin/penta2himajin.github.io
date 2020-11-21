@@ -1,5 +1,5 @@
 ---
 title: penta2himajin
-description: A great human
-background: "images/bg.jpg"
+description: a lazy cat
+background: "images/icon.png"
 ---
