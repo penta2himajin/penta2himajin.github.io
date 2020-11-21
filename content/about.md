@@ -3,7 +3,7 @@ title: About
 description: a lazy cat
 ---
 ### What is this page?
-This is penta2himajin's portfolio website, hosted by Hugo and github.io.
+This is penta2himajin's portfolio website, hosted by Hugo and Github Pages.
 
 ### Who are you?
-I'm penta2himajin a.k.a Kenya NARA
+I'm Kenya NARA a.k.a penta2himajin.
