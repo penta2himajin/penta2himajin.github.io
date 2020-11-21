@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://penta2himajin.github.io"
 languageCode = "en-us"
 title = "penta2himajin"
 theme = "dimension"
