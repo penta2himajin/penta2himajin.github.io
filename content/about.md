@@ -108,11 +108,12 @@ hobbies and frequency are below
     - Boardgame (Like Catan, even play mahjong etc...)
     - VR (I'm sometimes on VRChat!)
 - photography
-    - I don't take a lot of pics these days, but I want to be able to take more pics of what I want.
+    - I don't take a lot of pics these days,  
+      but I want to be able to take more pics of what I want.
     - The subject is mainly nature.
 - painting
     - A friend recommended me to get started.
     - At the line drawing stage, I understood that  
-    painters on Twitter were giving their souls to the devil.
+    painters on Twitter were giving their souls to the devil.  
     Their painting is too good.
     - I want to be able to draw more beautiful pictures.
