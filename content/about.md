@@ -50,6 +50,7 @@ HugoとGithub Pagesでホストされている。
     - FPS(Apexが難し過ぎる。最近頑張ってゴールドまでランクを上げた)
     - アクションRPG(最近はGhost of Tsushimaがやりたくて泣いてる)
     - ボドゲ(カタンとか, 麻雀とかもやるよ)
+    - VR(VRChatに時々出没しているよ)
 - 写真
     - 最近あんまり撮れてないけど、もっと思い描く画が撮れる様になりたい
     - 被写体はヒトよりも自然がすき
@@ -105,6 +106,7 @@ hobbies and frequency are below
     - FPS       (Apex is too difficult. I recently worked my rank up to Gold)
     - Action RPG(Recently I've been crying out to play Ghost of Tsushima)
     - Boardgame (Like Catan, even play mahjong etc...)
+    - VR (I'm sometimes on VRChat!)
 - photography
     - I don't take a lot of pics these days, but I want to be able to take more pics of what I want.
     - The subject is mainly nature.
