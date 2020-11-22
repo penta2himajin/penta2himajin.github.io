@@ -1,6 +1,5 @@
 ---
 title: Test
-description: a lazy cat
 ---
 
 ### Test
