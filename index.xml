@@ -1,10 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a lazy cat's den on penta2himajin</title><link>https://penta2himajin.github.io/</link><description>Recent content in a lazy cat's den on penta2himajin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://penta2himajin.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://penta2himajin.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://penta2himajin.github.io/about/</guid><description>What is this page? これは何? This is penta2himajin&amp;rsquo;s portfolio website, hosted by Hugo &amp;amp; Github Pages.
-ここはpenta2himajinのポートフォリオ。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>a lazy cat's den on penta2himajin</title><link>https://penta2himajin.github.io/</link><description>Recent content in a lazy cat's den on penta2himajin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://penta2himajin.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://penta2himajin.github.io/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://penta2himajin.github.io/about/</guid><description>note: English ver is below Japanese これは何? ここはpenta2himajinのポートフォリオ。
 HugoとGithub Pagesでホストされている。
-Who are you?　お前は誰? I&amp;rsquo;m Kenya NARA a.k.a penta2himajin.
-僕は奈良 賢矢。ｲﾝﾀｰﾈｯﾄではpenta2himajin名義で活動している。
-What is your background? 経歴は? Now studying at Tokyo University of Agriculture, Dept of Agribusiness.
-Started learning programming from 2017/12, &amp;amp; now I can write languages below.
-For more information about language use/learning objectives see the description.
-現在は東京農業大学 国際バイオビジネス学科2年の大学生。
-プログラミングの学習を2017年12月に開始し、現在では以下の言語を使える。</description></item><item><title>Test</title><link>https://penta2himajin.github.io/posts/test/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://penta2himajin.github.io/posts/test/</guid><description>Test This is a test post.</description></item></channel></rss>
+お前は誰? 本名は奈良 賢矢。ｲﾝﾀｰﾈｯﾄではpenta2himajin名義で活動している。
+経歴は? 現在は東京農業大学 国際バイオビジネス学科で大学生をしている。
+プログラミングの学習を2017年12月に開始し、現在では以下の言語を使える。
+言語の使用・学習目的については説明を参照されたい。
+Assembly (低レイヤプログラミングの学習) Lisp (サブセット言語のインタプリタの実装) C (低レイヤプログラミングの学習) C++ (競技プログラミング, アルゴリズムの学習) C# (マストドンのクライアントとUnityでのゲームの開発) Rust (知的好奇心から, ライフタイムと所有権の概念の学習) Python (統計と機械学習の学習とTwitter botの開発) Nim (知的好奇心から, BTC自動売買botの開発) Haskell (コードの美しさに惹かれて, 関数型パラダイムの学習) Elm (関数型プログラミング言語を用いたWeb開発の学習) Brainf*ck (知的好奇心から, 言語のインタプリタの実装) Whitespace(知的好奇心から, 言語のインタプリタの実装) 職歴は? 太字は現職
+株式会社SEQSENSE 短期アルバイト (エンジニア) 株式会社Xist iTeen アルバイト (講師) 株式会社ユニプロ 長期アルバイト (エンジニア) 株式会社ビットスクリプト 長期インターン (エンジニア, テレオペ) What is this page?</description></item><item><title>dotfiles</title><link>https://penta2himajin.github.io/repos/dotfiles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://penta2himajin.github.io/repos/dotfiles/</guid><description>note: English ver is below Japanese これは何? これはVimとかXmonadとかとか僕の好きな設定のdotfiles。
+どうして作ったの? Linuxとコンソールソフトを使っている時に使い辛いと感じることが多かったので 自分が使いやすいと思う設定を作った。
+作ってみてどうだった? 十分に使い易くなった。強いて言うなら、導入時の手間を減らしたいかも。
+What is this? This is my favorite setting dotfile of vim, xmonad, i3, rofi, etc&amp;hellip;
+Why you make this? When I use Linux and some console software, I somtimes felt it was hard to use.
+so I make the settings that can feel confortable to use.
+How was it when make it? It has become easy to use enough.</description></item><item><title>Test</title><link>https://penta2himajin.github.io/posts/test/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://penta2himajin.github.io/posts/test/</guid><description>Test This is a test post.</description></item></channel></rss>
