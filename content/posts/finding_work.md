@@ -10,7 +10,7 @@ title: Finding Work
 許容量以上摂取し数日徹夜後20時間睡眠といった生活をした結果、  
 精神的に非常に不安定になり留年した過去がある。※1  
   
-そんな私だったが、今年の頭からコロナ禍の影響も有り  
+そんな私だったが、今年(2020)の頭からコロナ禍の影響も有り  
 全く大学に通学する事が出来ず、前年度(2019)の後学期に  
 どうにか大学に行ける様になっていた自分の精神は再度不安定になった。※2  
   
@@ -89,7 +89,7 @@ Too devoted to this, I took energy drink more than the allowable amount and repe
 I was become highly mentally unstable and repeated a year.  
 *1  
   
-And, since the beginning of this year,  
+And, since the beginning of this year (2020),  
 I have been unable to attend university due to the effects of the coronavirus,  
 and my spirit, which had somehow been able to go to university in the second semester of the previous year (2019),  
 became unstable again.  
