@@ -9,6 +9,7 @@ HugoとGithub Pagesでホストされている。
 
 ### お前は誰?
 本名は奈良 賢矢、インターネット上ではpenta2himajin名義で活動している。
+アイコンは[Melvilleさん](https://twitter.com/V_Melville)作。
 
 ### 経歴は?
 現在は東京農業大学 国際バイオビジネス学科で大学生をしている。  
@@ -81,6 +82,7 @@ This is penta2himajin's portfolio website, hosted by Hugo & Github Pages.
 
 ### Who are you?
 I'm Kenya NARA a.k.a penta2himajin on Internet.  
+Icon by [Melville] (https://twitter.com/V_Melville).
 
 ### What is your background?
 Now studying at Tokyo University of Agriculture, Dept of Agribusiness.  
