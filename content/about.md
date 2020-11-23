@@ -49,7 +49,7 @@ HugoとGithub Pagesでホストされている。
 - ゲーム (10~15 hour/week)
     - FPS(Apexが難し過ぎる。最近頑張ってゴールドまでランクを上げた)
     - アクションRPG(最近はGhost of Tsushimaがやりたくて泣いてる)
-    - ボドゲ(カタンとか, 麻雀とかもやるよ)
+    - ボドゲ(カタン, 麻雀みたいのもやるよ)
     - VR(VRChatに時々出没しているよ)
 - 写真
     - 最近あんまり撮れてないけど、もっと思い描く画が撮れる様になりたい
@@ -58,6 +58,22 @@ HugoとGithub Pagesでホストされている。
     - 友人に勧められて始めてみた
     - 線画の段階でTwitterの絵師達が悪魔に魂を捧げている事が理解出来た
     - もっと美しい絵を描ける様になりたい(なる)
+
+### 最近は何に興味がある?
+以下にジャンルと詳細を示す。
+- 経済
+    - 計量経済学    (実データの統計と予測)
+    - 情報経済学    (ゲーム理論)
+- 金融
+    - 株            (ポートフォリオ最適化)
+    - デリバティブ  (オプション取引の数理理論)
+- プログラミング
+    - 大規模通信    (インフラのソフトウェア最適化)
+    - 低レイヤ      (自作OS, 自作ドライバ, 仮想化)
+    - xR           (VRM, メタバース, AR, Project North Starなど)
+    - 機械学習      (最適化理論, アルゴリズムなど)
+    - Web          (マイクロサービスアーキテクチャなフレームワークなど)
+    - セキュリティ  (マルウェア解析, 脆弱性診断, ハニーポット, CTFなど)
 
 - - -
 ### What is this page?
@@ -117,3 +133,19 @@ hobbies and frequency are below
     painters on Twitter were giving their souls to the devil.  
     Their painting is too good.
     - I want to be able to draw more beautiful pictures.
+
+### What are you interested in these days?
+Here are the genres and details.
+- Economy
+    - Econometrics (statistics and forecasting of real data)
+    - Information economics (game theory)
+- Financial
+    - Stocks (portfolio optimization)
+    - Derivatives (mathematical theory of options trading)
+- Programming
+    - Large-scale communications (software optimization of infrastructure)
+    - Low layers (homemade OS, homemade drivers, Virtualization)
+    - xR (VRM, Metaverse, AR, Project North Star, etc.)
+    - Machine learning (optimization theory, algorithms)
+    - Web (microservices architectural framework)
+    - Security (malware analysis, vulnerability testing, honeypot, CTF, etc.)
