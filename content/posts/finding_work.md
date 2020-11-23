@@ -38,7 +38,7 @@ title: Finding Work
 
 ### 終わりに
 この長々しい駄文を読んでくれた方の中にもし採用担当者様が  
-いらっしゃるのであれば、是非とも私奴を雇って頂けると幸いです。  
+いらっしゃるのであれば、**是非とも私奴を雇って頂けると幸いです**。  
 以下、私が希望する職種と雇用形態について明記します。
   
 職種
@@ -78,3 +78,81 @@ title: Finding Work
    或いは独学を志すもその難易度と複雑さに心折れて諦めると聞く
 
 5. 一種の狂人の集まりだと私は思っている
+
+---
+---
+
+### Looking for a job
+Lately, I noticed that I'm getting very hard for me to do things about have to do in university.  
+I spent the first semester of my university entrance year (2018) on programming in spite of the fact that our specialties are completely different.  
+Too devoted to this, I took energydrink more than the allowable amount and repeated the life sleeping for about 20 hours after staying up all night for several days,  
+I was become highly mentally unstable and repeated a year.  
+*1  
+  
+And, since the beginning of this year,  
+I have been unable to attend university due to the effects of the coronavirus,  
+and my spirit, which had somehow been able to go to university in the second semester of the previous year (2019),  
+became unstable again.  
+*2  
+  
+As a result of my self-analysis in order to rebuild my unstable mind,  
+I realized that what I want to do and learn at the moment is extremely different from the learning and behavioral situation I am in at the moment.  
+  
+In order to break this extreme gap between ideals and reality,  
+I want to take a leave of absence from university, get a job to earn and save money,  
+and then use the money I have made to study again.  
+*3  
+
+### The narrow gate
+from my experiences about finding a part-time job or an internship,  
+I understand that isn't easy to get a job, and so as a result of thinking about the jobs  that can likely to get in the current situation,  
+I was recognize them as "engineers" and "programmers".  
+  
+However, it isn't so easy to become an "engineer" or "programmer".  
+The term "fleding engineer" has become popular at Japan in recent year,  
+and the number of people aspiring to become engineer has increased dramatically.  
+*4  
+  
+And I have to compete in the same job market as those who have overcome that high barrier at a young age. *5  
+This thing is put me on very strong pressure.  
+
+### At the last
+If there are any hiring managers who read this lengthy bad sentence,  
+**please hire me.**  
+Below is a description of the position and the type of employment I am seeking.
+  
+Position
+- Engineer
+   - Infrastructure
+   - Software
+   - Application
+   - xR(VR, AR, MR)
+   - Security
+- Programmer
+   - Software design
+   - Coding
+   - Debug
+   - Test
+
+Employment style
+- Full-time employee
+- Intern or part-time job
+   - I want assurance of a permanent appointment
+      - my parents told me "If you don't go to university, leave home" and can't live without a job so.
+
+---
+1. After talking with my parents at the end of the year entered,  
+   they agreed to get a bachelor's degree just in case,  
+   given the circumstances.
+
+2. The reason for highly mentallyl unstable during the year entered is a "strong complex".  
+   Due to the effects of the coronavirus, I was become unable to create compulsory habits on my own,  
+   I couldn't even manage my sleep, I couldn't turn in my assignments,    
+   and eventually this complex caused me to become mentally unstable again.
+
+3. My university is known for its high cost of leave of absence,  
+   if I got a job, I will likely leave the university and create a suitable environment for work.
+
+4. Although, I hear most of them who are going to school and become typical "school graduate" or are aspire to "self-taught" and give up because of its difficulty and complexity.
+
+5. I think they're kind of a bunch of lunatics
