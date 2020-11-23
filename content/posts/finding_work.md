@@ -85,7 +85,7 @@ title: Finding Work
 ### Looking for a job
 Lately, I noticed that I'm getting very hard for me to do things about have to do in university.  
 I spent the first semester of my university entrance year (2018) on programming in spite of the fact that our specialties are completely different.  
-Too devoted to this, I took energydrink more than the allowable amount and repeated the life sleeping for about 20 hours after staying up all night for several days,  
+Too devoted to this, I took energy drink more than the allowable amount and repeated the life sleeping for about 20 hours after staying up all night for several days,  
 I was become highly mentally unstable and repeated a year.  
 *1  
   
@@ -146,9 +146,7 @@ Employment style
    given the circumstances.
 
 2. The reason for highly mentallyl unstable during the year entered is a "strong complex".  
-   Due to the effects of the coronavirus, I was become unable to create compulsory habits on my own,  
-   I couldn't even manage my sleep, I couldn't turn in my assignments,    
-   and eventually this complex caused me to become mentally unstable again.
+   Due to the effects of the coronavirus, I was become unable to create compulsory habits on my own, I couldn't even manage my sleep, I couldn't turn in my assignments, and eventually this complex caused me to become mentally unstable again.
 
 3. My university is known for its high cost of leave of absence,  
    if I got a job, I will likely leave the university and create a suitable environment for work.
