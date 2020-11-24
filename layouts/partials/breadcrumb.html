@@ -1,0 +1,23 @@
+{{- define "breadcrumb" }}
+    {{- if .node.Parent }}
+        {{- template "breadcrumb" (dict "node" .node.Parent "start" .start) }}
+    {{- end }}
+
+    {{- if not (eq .node .start) }}
+        {{ if .node.Title }}
+            {{ if not .node.Content }}
+                <nav class="is-middle">
+                    <ul>
+                        <li class="use-middle">
+                            {{ if .node.IsHome }}
+                                <a href="{{ .node.Permalink }}">HOME</a>
+                            {{ else }}
+                                <a href="{{ .node.Permalink }}">{{ .node.Title }}</a>
+                            {{ end }}
+                        </li>
+                    </ul>
+                </nav>
+            {{ end }}
+        {{ end }}
+    {{- end }}
+{{- end }}
