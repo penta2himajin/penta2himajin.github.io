@@ -5,7 +5,7 @@ HugoとGithub Pagesでホストされている。
 プログラミングの学習を2017年12月に開始し、現在では以下の言語を使える。
 言語の使用・学習目的については説明を参照されたい。
 Assembly (低レイヤプログラミングの学習) Lisp (サブセット言語のインタプリタの実装) C (低レイヤプログラミングの学習) C++ (競技プログラミング, アルゴリズムの学習) C# (マストドンのクライアントとUnityでのゲームの開発) Rust (知的好奇心から, ライフタイムと所有権の概念の学習) Python (統計と機械学習の学習とTwitter botの開発) Nim (知的好奇心から, BTC自動売買botの開発) Haskell (コードの美しさに惹かれて, 関数型パラダイムの学習) Elm (関数型プログラミング言語を用いたWeb開発の学習) Brainf*ck (知的好奇心から, 言語のインタプリタの実装) Whitespace(知的好奇心から, 言語のインタプリタの実装) 職歴は? 太字は現職
-株式会社SEQSENSE アルバイト (エンジニア: Python) 株式会社Xist iTeen アルバイト (講師: Scratch, C#) 株式会社ユニプロ アルバイト (エンジニア: TypeScript) 株式会社ビットスクリプト インターン (インフラエンジニア, テレオペ) 趣味は?</description></item><item><title>dotfiles</title><link>https://penta2himajin.github.io/posts/repos/dotfiles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://penta2himajin.github.io/posts/repos/dotfiles/</guid><description>note: English ver is below Japanese これは何? これはVimとかXmonadとかとか僕の好きな設定のdotfiles。
+株式会社SEQSENSE アルバイト (エンジニア: Python) 株式会社Xist iTeen アルバイト (講師: Scratch, C#) 株式会社ユニプロ アルバイト (エンジニア: TypeScript) 株式会社ビットスクリプト インターン (インフラエンジニア, テレオペ) 趣味は?</description></item><item><title>Contact</title><link>https://penta2himajin.github.io/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://penta2himajin.github.io/contact/</guid><description> E-Mail Twitter Github AtCoder</description></item><item><title>dotfiles</title><link>https://penta2himajin.github.io/repos/dotfiles/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://penta2himajin.github.io/repos/dotfiles/</guid><description>note: English ver is below Japanese これは何? これはVimとかXmonadとかとか僕の好きな設定のdotfiles。
 どうして作ったの? Linuxとコンソールソフトを使っている時に使い辛いと感じることが多かったので 自分が使いやすいと思う設定を作った。
 作ってみてどうだった? 十分に使い易くなった。強いて言うなら、導入時の手間を減らしたいかも。
 What is this? This is my favorite setting dotfile of vim, xmonad, i3, rofi, etc&amp;hellip;
@@ -14,16 +14,16 @@ so I make the settings that can feel confortable to use.
 How was it when make it? It has become easy to use enough.</description></item><item><title>Looking a job</title><link>https://penta2himajin.github.io/posts/looking_a_job/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://penta2himajin.github.io/posts/looking_a_job/</guid><description>note: English ver is below Japanese 職を探している ここ最近、大学の彼是を熟すのが非常に厳しくなっている事に気が付いた。 私は大学の入学年度(2018)の前期を専門が全く異なるにも拘わらず
 プログラミングに費やしており、これに熱中する余りにエナドリを
 許容量以上摂取し数日徹夜後20時間睡眠といった生活をした結果、
-精神的に非常に不安定になり留年した過去がある。※1
+精神的に非常に不安定になり留年した過去がある。
 そんな私だったが、今年(2020)の頭からコロナ禍の影響も有り
 全く大学に通学する事が出来ず、前年度(2019)の後学期に
-どうにか大学に行ける様になっていた自分の精神は再度不安定になった。※2
+どうにか大学に行ける様になっていた自分の精神は再度不安定になった。※1
 不安定になった精神を立て直す為に自己分析を行った結果、
 今現在の自分がやりたい事や学びたい事と今現在自分が置かれている
 学習状況や行動状況が極端に乖離している事に気が付いた。
 この極端に理想と現実が乖離した状況を打開する為に、
 先ずは大学を休学し職を得て金を稼ぎ貯め、
-出来た金を再度自らの学習の為に使用したいと考えている。※3
+出来た金を再度自らの学習の為に使用したいと考えている。※2
 狭き門 職を得る、と一言に言っても、そう簡単に得られる訳では無い事は
 アルバイトやインターンを探した経験から何となく理解しているので、
 自分が現状で得られる可能性の高い職について考えて行った結果、
@@ -31,12 +31,12 @@ How was it when make it? It has become easy to use enough.</description></item><
 認識することが出来た。
 とは言っても&amp;quot;エンジニア&amp;quot;や&amp;quot;プログラマ&amp;quot;になる事はそんなに簡単ではない。
 近年では&amp;quot;駆け出しエンジニア&amp;quot;などの言葉も流行っており、
-エンジニアを目指す人も非常に多くなっている。※4
-そして、その高いと言われる壁を若くして越えた人々※5と同じ就職市場で
+エンジニアを目指す人も非常に多くなっている。※3
+そして、その高いと言われる壁を若くして越えた人々※4と同じ就職市場で
 戦わなければならない。この事は私に非常に強いプレッシャーを与えている。
 終わりに この長々しい駄文を読んでくれた方の中にもし採用担当者様が
 いらっしゃるのであれば、是非とも私奴を雇って頂けると幸いです。
 以下、私が希望する職種と雇用形態について明記します。
 職種
 エンジニア インフラ ソフトウェア アプリ xR(VR, AR, MR) セキュリティ プログラマ 設計 コーディング デバッグ テスト 雇用形態
-正社員 インターン又はアルバイト 正社員登用の確約が有ると非常に有難いです 以下の理由により教育を受けない且つ職が無いと生活に窮するため &amp;ldquo;大学に行かないのであれば家を出ろ&amp;quot;と親に告げられたため 入学年度の終わりに親と話をした結果、</description></item></channel></rss>
+正社員 インターン又はアルバイト 正社員登用の確約が有ると非常に有難いです 以下の理由により教育を受けない且つ職が無いと生活に窮するため &amp;ldquo;大学に行かないのであれば家を出ろ&amp;quot;と親に告げられたため 入学年度に精神不安定に陥った理由として&amp;quot;強いコンプレックス&amp;quot;がある。</description></item></channel></rss>
