@@ -37,27 +37,23 @@ HugoとGithub Pagesでホストされている。
 
 ### 趣味は?
 以下が趣味とその頻度。
-- 音楽鑑賞 (2~8 hour/day)
+- 音楽鑑賞
     - サウンドトラック (ゲーム, アニメなど色々)
     - J-POP (アニソン含む)
     - 洋楽 (少し古い曲が多いかも)
     - クラシック (ピアノ, オーケストラ)
-- プログラミング (20~30 hour/week)
+- プログラミング
     - 割と興味の向くままにプログラムを書いてきたので書く事が無い...  
       何方かというとサーバーサイドとインフラがすき  
       (気になって買ったラックサーバーが自宅に有る)
     - 色々な人が触る物の土台を作ったり形を組み替えたりするのがすき
-- ゲーム (10~15 hour/week)
-    - FPS(Apexが難し過ぎる。最近頑張ってゴールドまでランクを上げた)
-    - アクションRPG(最近はGhost of Tsushimaがやりたくて泣いてる)
+- ゲーム
     - ボドゲ(カタン, 麻雀みたいのもやるよ)
     - VR(VRChatに時々出没しているよ)
 - 写真
     - 最近あんまり撮れてないけど、もっと思い描く画が撮れる様になりたい
-    - 被写体はヒトよりも自然がすき
 - お絵描き
     - 友人に勧められて始めてみた
-    - 線画の段階でTwitterの絵師達が悪魔に魂を捧げている事が理解出来た
     - もっと美しい絵を描ける様になりたい(なる)
 
 ### 最近は何に興味がある?
@@ -110,30 +106,24 @@ Bold: current position
 
 ### What are your hobby?
 hobbies and frequency are below
-- listening music (2~8 hour/day)
+- listening music
     - Soundtrack (game, anime, etc...)
     - J-POP (including anime songs)
     - Western music (Maybe a little old songs)
     - Classics (piano, Orchestra)
-- programming (20~30 hour/week)
+- programming
     - I've been writing programs in curious way, so nothing to write...  
       If anything, I like the server side and infra.  
       (rack server I bought a curious is in my house)
     - I like to build and reshape the foundations of things that are touched by people.
-- game (10~15 hour/week)
-    - FPS       (Apex is too difficult. I recently worked my rank up to Gold)
-    - Action RPG(Recently I've been crying out to play Ghost of Tsushima)
+- game
     - Boardgame (Like Catan, even play mahjong etc...)
     - VR (I'm sometimes on VRChat!)
 - photography
     - I don't take a lot of pics these days,  
       but I want to be able to take more pics of what I want.
-    - The subject is mainly nature.
 - painting
     - A friend recommended me to get started.
-    - At the line drawing stage, I understood that  
-    painters on Twitter were giving their souls to the devil.  
-    Their painting is too good.
     - I want to be able to draw more beautiful pictures.
 
 ### What are you interested in these days?
