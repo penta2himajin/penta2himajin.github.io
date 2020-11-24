@@ -1,5 +1,5 @@
 ---
-title: Finding Work
+title: Looking a job
 ---
 ### **note: English ver is below Japanese**
 
