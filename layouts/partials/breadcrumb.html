@@ -3,21 +3,19 @@
         {{ template "breadcrumb" (dict "node" .node.Parent "start" .start) }}
     {{ end }}
 
-    {{ if not (eq .node .start) }}
-        {{ if .node.Title }}
-            {{ if not .node.Content }}
-                <nav class="is-middle">
-                    <ul>
-                        <li class="use-middle">
-                            {{ if .node.IsHome }}
-                                <a href="{{ .node.Permalink }}">HOME</a>
-                            {{ else }}
-                                <a href="{{ .node.Permalink }}">{{ .node.Title }}</a>
-                            {{ end }}
-                        </li>
-                    </ul>
-                </nav>
-            {{ end }}
-        {{ end }}
+    {{ if and (not (eq .node .start)) .node.Title (not .node.Content) }}
+        <nav class="is-middle">
+            <ul>
+                <li class="is-middle">
+                    <a href="{{ .node.Permalink }}">
+                        {{ if .node.IsHome }}
+                            HOME
+                        {{ else }}
+                            {{ .node.Title }}
+                        {{ end }}
+                    </a>
+                </li>
+            </ul>
+        </nav>
     {{ end }}
 {{ end }}
