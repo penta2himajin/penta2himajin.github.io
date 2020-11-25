@@ -76,8 +76,12 @@ HugoとGithub Pagesでホストされている。
 - プログラミング
     - 割と興味の向くままにプログラムを書いてきたので書く事が無い...  
       何方かというとサーバーサイドとインフラがすき  
-      (気になって買ったラックサーバーが自宅に有る)
     - 色々な人が触る物の土台を作ったり形を組み替えたりするのがすき
+- インフラ
+    - 自宅ネットワークの管理と保守
+    - 私用ラックサーバの管理と保守
+        - 友人と遊ぶためのゲームサーバーのDockerとKubernetesを用いた運用、管理
+        - 開発したソフトウェアのデプロイと運用、管理
 - ゲーム
     - ボドゲ(カタン, 麻雀みたいのもやるよ)
     - VR(VRChatに時々出没しているよ)
@@ -172,8 +176,12 @@ hobbies and frequency are below
 - programming
     - I've been writing programs in curious way, so nothing to write...  
       If anything, I like the server side and infra.  
-      (rack server I bought a curious is in my house)
     - I like to build and reshape the foundations of things that are touched by people.
+- Infrastructure
+    - Management and maintenance of the home network
+    - Private rack server management and maintenance
+        - Operating and managing a game server using Docker and Kubernetes to play with friends
+        - Deployment and operation of developed software, management
 - game
     - Boardgame (Like Catan, even play mahjong etc...)
     - VR (I'm sometimes on VRChat!)
