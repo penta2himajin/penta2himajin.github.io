@@ -9,31 +9,64 @@ HugoとGithub Pagesでホストされている。
 
 ### お前は誰?
 本名は奈良 賢矢、インターネット上ではpenta2himajin名義で活動している。
-アイコンは[Melvilleさん](https://twitter.com/V_Melville)作。
+アイコンは[Melvilleさん](https://twitter.com/V_Melville)作。以下リンク集(Contentと同じ)。
+- [E-Mail](<mailto:penta2himajin@gmail.com>)
+- [Twitter](https://twitter.com/penta2himajin)
+- [Github](https://github.com/penta2himajin)
+- [AtCoder](https://atcoder.jp/users/penta2himajin)
 
 ### 経歴は?
 現在は東京農業大学 国際バイオビジネス学科で大学生をしている。  
 プログラミングの学習を2017年12月に開始し、現在では以下の言語を使える。  
-言語の使用・学習目的については説明を参照されたい。
-- Assembly  (低レイヤプログラミングの学習)
-- Lisp      (サブセット言語のインタプリタの実装)
-- C         (低レイヤプログラミングの学習)
-- C++       (競技プログラミング, アルゴリズムの学習)
-- C#        (マストドンのクライアントとUnityでのゲームの開発)
-- Rust      (知的好奇心から, ライフタイムと所有権の概念の学習)
-- Python    (統計と機械学習の学習とTwitter botの開発)
-- Nim       (知的好奇心から, BTC自動売買botの開発)
-- Haskell   (コードの美しさに惹かれて, 関数型パラダイムの学習)
-- Elm       (関数型プログラミング言語を用いたWeb開発の学習)
-- Brainf*ck (知的好奇心から, 言語のインタプリタの実装)
-- Whitespace(知的好奇心から, 言語のインタプリタの実装)
+言語の学習理由については説明を参照されたい。
+<!-- 実際に何をやっていたかをある程度具体的に記述する
+     (今現在外部から確認出来ないものも含む) -->
+- Assembly
+    - 自作OS
+    - 静的解析
+- Lisp
+    - 言語サブセットのインタプリタ開発(インタプリタ本体はPythonで実装)
+- C
+    - プログラミングの基礎的概念の学習
+    - ネットワークプログラミングの学習
+- C++
+    - 競技プログラミング
+    - アルゴリズムの学習
+- C#
+    - マストドンのクライアント開発
+    - Unity3Dゲームの開発
+- Rust
+    - ライフタイムや所有権などの概念の学習
+    - DBと接続可能な学修向けHTTP APIサーバーの実装
+- Python
+    - 単純な返信機能を持ったTwitter botの開発
+    - 機械学習を用いたマルウェア解析技術の学習
+- Nim
+    - BTC自動売買botの開発
+- Haskell
+    - コードの美しさに惹かれて
+    - 関数型パラダイムの学習
+- Elm
+    - 関数型プログラミング言語を用いたWeb開発の学習
+- Brainf*ck
+    - 言語のインタプリタ開発(インタプリタ本体はC++で実装)
+- Whitespace
+    - 言語のインタプリタ開発(インタプリタ本体はC++で実装)
 
 ### 職歴は?
 太字は現職
-- 株式会社SEQSENSE&ensp;            アルバイト&ensp;    (エンジニア: Python)
-- 株式会社Xist&ensp;iTeen&ensp;     アルバイト&ensp;    (講師: Scratch, C#)
-- 株式会社ユニプロ&ensp;             アルバイト&ensp;    (エンジニア: TypeScript)
-- **株式会社ビットスクリプト&ensp;  インターン&ensp;    (インフラエンジニア, テレオペ)**
+- 株式会社SEQSENSE&ensp;            アルバイト
+    - エンジニア
+        - Pythonでの社内向けデータ前処理ツールの開発
+- 株式会社Xist&ensp;iTeen&ensp;     アルバイト
+    - 講師
+        - Scratch,&ensp;C#でのゲーム開発と生徒の補助
+- 株式会社ユニプロ&ensp;             アルバイト
+    - エンジニア
+        - AWSを利用したTypeScriptでの社内向けツールの開発
+- **株式会社ビットスクリプト&ensp;  インターン**
+    - **インフラエンジニア**
+        - **Dockerを利用したRuby on Railsのデプロイ**
 
 ### 趣味は?
 以下が趣味とその頻度。
@@ -84,25 +117,52 @@ Icon by [Melville] (https://twitter.com/V_Melville).
 Now studying at Tokyo University of Agriculture, Dept of Agribusiness.  
 Started learning programming from 2017/12, & now I can write languages below.  
 For more information about language use/learning objectives see the description.  
-- Assembly  (for learning low-layer programming)
-- Lisp      (for implementating subset language interpreter)
-- C         (for learning low-layer programming)
-- C++       (for competitive programming)
-- C#        (for developing Mastodon desktop client & game with Unity)
-- Rust      (for learning concept of "lifetime")
-- Python    (for developing Twitter bot & learning statistics, machine learning)
-- Nim       (for developing BTC autotrade bot)
-- Haskell   (for learning functional programming)
-- Elm       (learning web developing with functional programming)
-- Brainf*ck (for implementating interpreter)
-- Whitespace(for implementating interpreter)
+- Assembly
+    - Homebrew OS
+    - Static Analysis
+- Lisp
+    - Interpreter development for a language subset (the interpreter itself is implemented in Python)
+- C
+    - Learning the basic concepts of programming
+    - Learning Network Programming
+- C++
+    - Competition Programming
+    - Learning the Algorithm
+- C#
+    - Mastodon client development
+    - Unity 3D Game Development
+- Rust
+    - Learning concepts such as lifetime and ownership
+    - Implementation of an HTTP API server for academics that can connect to the DB
+- Python
+    - Developing a Twitter bot with a simple reply function
+    - Learning statistics and machine learning
+- Nim
+    - Development of the BTC automated trading bot
+- Haskell
+    - Attracted by the beauty of the code
+    - Learning the functional paradigm
+- Elm
+    - Learning Web Development with Functional Programming Language
+- Brainf*ck
+    - Language interpreter development (the interpreter itself is implemented in C++)
+- Whitespace
+    - Language interpreter development (the interpreter itself is implemented in C++)
 
 ### What is your work experience?
 Bold: current position
-- SEQSENSE&ensp;        part-time&ensp; (Engineer)
-- Xist&ensp;iTeen&ensp; part-time&ensp; (Lecturer)
-- UNIPRO&ensp;          part-time&ensp; (Engineer)
-- **Bitscript&ensp;     part-time&ensp; (Engineer, Customer Service)**
+- SEQSENSE&ensp; part-time
+    - Engineer
+        - Development of in-house data pre-processing tools in Python
+- Xist&ensp; iTeen&ensp; Part-time
+    - Lecturer
+        - Scratch,&ensp; assisting students with game development in C#
+- Unipro Corporation & ensp; Part-time
+    - Engineer
+        - Development of in-house tools in TypeScript with AWS
+- **BitScript & ensp; internship**
+    - **Infrastructure Engineer**
+        - **Ruby on Rails Deployment with Docker**
 
 ### What are your hobby?
 hobbies and frequency are below
