@@ -129,8 +129,7 @@ Position
 Employment style
 - Full-time employee
 - Intern or part-time job
-   - I want assurance of a permanent appointment
-      - my parents told me "If you don't go to university, leave home" and can't live without a job so.
+   - I want guarantee of a permanent appointment if no job in this age I can't alive so.
 
 ---
 1. The reason for highly mentallyl unstable during the year entered is a "strong complex".  
