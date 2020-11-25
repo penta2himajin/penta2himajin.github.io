@@ -11,8 +11,7 @@ title: Looking a job
 精神的に非常に不安定になり留年した過去がある。  
   
 そんな私だったが、今年(2020)の頭からコロナ禍の影響も有り  
-全く大学に通学する事が出来ず、前年度(2019)の後学期に  
-どうにか大学に行ける様になっていた自分の精神は再度不安定になった。※1  
+全く大学に通学する事が出来ず、自分の精神は再度不安定になった。※1  
   
 不安定になった精神を立て直す為に自己分析を行った結果、  
 今現在の自分がやりたい事や学びたい事と今現在自分が置かれている  
@@ -37,7 +36,7 @@ title: Looking a job
 戦わなければならない。この事は私に非常に強いプレッシャーを与えている。
 
 ### 終わりに
-この長々しい駄文を読んでくれた方の中にもし採用担当者様が  
+この文を読んでくれた方の中にもし採用担当者様が  
 いらっしゃるのであれば、**是非とも私奴を雇って頂けると幸いです**。  
 以下、私が希望する職種と雇用形態について明記します。
   
@@ -57,15 +56,12 @@ title: Looking a job
 雇用形態
 - 正社員
 - インターン又はアルバイト
-    - 正社員登用の確約が有ると非常に有難いです
-        - 以下の理由により教育を受けない且つ職が無いと生活に窮するため
-            - "大学に行かないのであれば家を出ろ"と親に告げられたため
+    - 時勢も有り無職だと生活に窮するため、正社員登用の確約等有ると非常に有難いです
 
 ---
 1. 入学年度に精神不安定に陥った理由として"強いコンプレックス"がある。  
    コロナ禍の影響で自力で強制力の有る習慣を作り出せ無くなり、  
-   睡眠時間すら管理出来ず課題を提出出来無くなり  
-   終いにはこのコンプレックスから再度精神が不安定になった。
+   最終的にこのコンプレックスから再度精神が不安定になった。
 
 2. 幣学は非常に休学費用が高い大学であることで知られており  
    自分がもし職を得た場合には大学を辞め職に没頭出来る環境を  
@@ -74,26 +70,25 @@ title: Looking a job
 3. 尤も、その多くはスクールに入り典型的な"スクール卒"になるか、  
    或いは独学を志すもその難易度と複雑さに心折れて諦めると聞く
 
-4. 一種の狂人の集まりだと私は思っている
+4. 一種の狂人の集まりみたいなものだとも思うが  
+   技術者としては非常に尊敬している
 
 ---
 ---
 
 ### Looking for a job
 Lately, I noticed that I'm getting very hard for me to do things about have to do in university.  
-I spent the first semester of my university entrance year (2018) on programming in spite of the fact that our specialties are completely different.  
+I spent the first semester of my university entrance year (2018) on programming in spite of the fact that my specialties are completely different.  
 Too devoted to this, I took energy drink more than the allowable amount and repeated the life sleeping for about 20 hours after staying up all night for several days,  
 I was become highly mentally unstable and repeated a year.  
   
-  
 And, since the beginning of this year (2020),  
 I have been unable to attend university due to the effects of the coronavirus,  
-and my spirit, which had somehow been able to go to university in the second semester of the previous year (2019),  
-became unstable again.  
+and I became mentally unstable again.  
 *1  
   
 As a result of my self-analysis in order to rebuild my unstable mind,  
-I realized that what I want to do and learn at the moment is extremely different from the learning and behavioral situation I am in at the moment.  
+I realized that what I want to do and learn at the moment is extremely different from the learning and behavioral situation I'm in at the moment.  
   
 In order to break this extreme gap between ideals and reality,  
 I want to take a leave of absence from university, get a job to earn and save money,  
@@ -102,11 +97,11 @@ and then use the money I have made to study again.
 
 ### The narrow gate
 from my experiences about finding a part-time job or an internship,  
-I understand that isn't easy to get a job, and so as a result of thinking about the jobs  that can likely to get in the current situation,  
+I understand that isn't easy to get a job, and so as a result of thinking about the jobs that can likely to get in the current situation,  
 I was recognize them as "engineers" and "programmers".  
   
 However, it isn't so easy to become an "engineer" or "programmer".  
-The term "fleding engineer" has become popular at Japan in recent year,  
+The term "novice engineer" has become popular at Japan in recent year,  
 and the number of people aspiring to become engineer has increased dramatically.  
 *3  
   
@@ -114,9 +109,9 @@ And I have to compete in the same job market as those who have overcome that hig
 This thing is put me on very strong pressure.  
 
 ### At the last
-If there are any hiring managers who read this lengthy bad sentence,  
+If there are any hiring managers who read this,  
 **please hire me.**  
-Below is a description of the position and the type of employment I am seeking.
+Below is a description of the position and the type of employment I'm seeking.
   
 Position
 - Engineer
@@ -139,11 +134,12 @@ Employment style
 
 ---
 1. The reason for highly mentallyl unstable during the year entered is a "strong complex".  
-   Due to the effects of the coronavirus, I was become unable to create compulsory habits on my own, I couldn't even manage my sleep, I couldn't turn in my assignments, and eventually this complex caused me to become mentally unstable again.
+   Due to the effects of the coronavirus, complex caused me to become mentally unstable again.
 
 2. My university is known for its high cost of leave of absence,  
    if I got a job, I will likely leave the university and create a suitable environment for work.
 
 3. Although, I hear most of them who are going to school and become typical "school graduate" or are aspire to "self-taught" and give up because of its difficulty and complexity.
 
-4. I think they're kind of a bunch of lunatics
+4. I think they're like to one kind of a bunch of lunatics,  
+   but as a technician I have great respect for them.
