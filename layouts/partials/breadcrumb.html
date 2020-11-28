@@ -4,9 +4,9 @@
     {{ end }}
 
     {{ if and (not (eq .node .start)) .node.Title (not .node.Content) }}
-        <nav class="is-middle">
+        <nav>
             <ul>
-                <li class="is-middle">
+                <li>
                     <a href="{{ .node.Permalink }}">
                         {{ if .node.IsHome }}
                             HOME
