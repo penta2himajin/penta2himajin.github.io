@@ -59,7 +59,7 @@
 
 		if ($last_li.length % 2 == 0) {
 			$last_nav.addClass('use-middle')
-			$last_li.eq( ($last_nav.length / 2) ).addClass('is-middle')
+			$last_li.eq( ($last_li.length / 2) ).addClass('is-middle')
 		}
 
 	// Main.
