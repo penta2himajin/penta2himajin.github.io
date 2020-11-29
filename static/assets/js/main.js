@@ -54,12 +54,12 @@
 		}
 
 	// Nav.
-		var $last_nav = $("header nav").last()
-			$last_li = $last_nav.find('li')
+		var $nav = $("header nav").last()
+			$li = $nav.find('li')
 
-		if ($last_li.length % 2 == 0) {
-			$last_nav.addClass('use-middle')
-			$last_li.eq( ($last_li.length / 2) ).addClass('is-middle')
+		if ($li.length % 2 == 0) {
+			$nav.addClass('use-middle')
+			$li.eq( ($li.length / 2) ).addClass('is-middle')
 		}
 
 	// Main.
