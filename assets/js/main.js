@@ -57,7 +57,7 @@
 		var $last_nav = $("header nav").last()
 			$last_li = $last_nav.find('li')
 
-		if ($last_nav.length % 2 == 0) {
+		if ($last_li.length % 2 == 0) {
 			$last_nav.addClass('use-middle')
 			$last_li.eq( ($last_nav.length / 2) ).addClass('is-middle')
 		}
