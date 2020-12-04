@@ -153,16 +153,16 @@ For more information about language use/learning objectives see the description.
 
 ### What is your work experience?
 Bold: current position
-- SEQSENSE&ensp; part-time
+- SEQSENSE (part-time)
     - Engineer
         - Development of in-house data pre-processing tools in Python
-- Xist&ensp; iTeen&ensp; Part-time
+- Xist (Part-time)
     - Lecturer
-        - Scratch,&ensp; assisting students with game development in C#
-- Unipro Corporation & ensp; Part-time
+        - Scratch, assisting students with game development in C#
+- Unipro (Part-time)
     - Engineer
         - Development of in-house tools in TypeScript with AWS
-- **BitScript & ensp; internship**
+- **BitScript internship**
     - **Infrastructure Engineer**
         - **Ruby on Rails Deployment with Docker**
 
