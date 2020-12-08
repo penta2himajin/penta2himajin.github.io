@@ -74,11 +74,11 @@ title: Looking a job
 ### Looking for a job
 Lately, I noticed that I'm getting very hard for me to do things about have to do in university.  
 I spent the first semester of my university entrance year (2018) on programming in spite of the fact that my specialties are completely different.  
-Too devoted to this, I got out of the rhythm of life.  
+Too devoted to this, I broke my rhythm of life.  
   
 And, since the beginning of this year (2020),  
 I have been unable to attend university due to the effects of the coronavirus,  
-and I got out of the rhythm of life again.  
+and I broke my rhythm of life again.  
   
 As a result of my self-analysis in the process of rebuilding a broken rhythm of life,  
 I realized that what I want to do and learn at the moment is extremely different from the learning and behavioral situation I'm in at the moment.  
