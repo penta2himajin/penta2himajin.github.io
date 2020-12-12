@@ -113,7 +113,7 @@ This is penta2himajin's portfolio website, hosted by Hugo & Github Pages.
 
 ### Who are you?
 I'm Kenya NARA a.k.a penta2himajin on Internet.  
-Icon by [Melville] (https://twitter.com/V_Melville).
+Icon by [Melville](https://twitter.com/V_Melville).
 
 ### What is your background?
 Now studying at Tokyo University of Agriculture, Dept of Agribusiness.  
