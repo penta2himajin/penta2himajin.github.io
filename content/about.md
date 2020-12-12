@@ -118,7 +118,7 @@ Icon by [Melville](https://twitter.com/V_Melville).
 ### What is your background?
 Now studying at Tokyo University of Agriculture, Dept of Agribusiness.  
 Started learning programming from 2017/12, & now I can write languages below.  
-For more information about language use/learning objectives see the description.  
+For more information about language use/learning objectives, see the description.  
 - Assembly
     - Homebrew OS
     - Static Analysis
