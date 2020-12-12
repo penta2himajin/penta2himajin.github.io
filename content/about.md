@@ -168,27 +168,27 @@ Bold: current position
 
 ### What are your hobby?
 hobbies and frequency are below
-- listening music
+- Listening music
     - Soundtrack (game, anime, etc...)
     - J-POP (including anime songs)
     - Western music (Maybe a little old songs)
     - Classics (piano, Orchestra)
-- programming
+- Programming
     - I've been writing programs in curious way, so nothing to write...  
       If anything, I like the server side and infra.  
     - I like to build and reshape the foundations of things that are touched by people.
-- Infrastructure
+- Managing infrastructure
     - Management and maintenance of the home network
     - Private rack server management and maintenance
         - Operating and managing a game server using Docker and Kubernetes to play with friends
         - Deployment and operation of developed software, management
-- game
+- Game
     - Boardgame (Like Catan, even play mahjong etc...)
     - VR (I'm sometimes on VRChat!)
-- photography
+- Photography
     - I don't take a lot of pics these days,  
       but I want to be able to take more pics of what I want.
-- painting
+- Painting
     - A friend recommended me to get started.
     - I want to be able to draw more beautiful pictures.
 
