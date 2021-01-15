@@ -16,7 +16,7 @@ HugoとGithub Pagesでホストされている。
 - [AtCoder](https://atcoder.jp/users/penta2himajin)
 
 ### 経歴は?
-現在は東京農業大学 国際バイオビジネス学科で大学生をしている。  
+現在は東京農業大学 国際食料情報学部 国際バイオビジネス学科で大学生をしている。  
 プログラミングの学習を2017年12月に開始し、現在では以下の言語を使える。  
 言語の学習理由については説明を参照されたい。
 - Assembly
@@ -116,7 +116,7 @@ I'm Kenya NARA a.k.a penta2himajin on Internet.
 Icon by [Melville](https://twitter.com/V_Melville).
 
 ### What is your background?
-Now studying at Tokyo University of Agriculture, Dept of Agribusiness.  
+Now studying at Tokyo University of Agriculture, Faculty of International Agriculture and Food Studies, Dept of Agribusiness.  
 Started learning programming from 2017/12, & now I can write languages below.  
 For more information about language use/learning objectives, see the description.  
 - Assembly
